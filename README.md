@@ -7,7 +7,7 @@ Then answer in the space below each question:
 
 2. Last name: Vodenitcharov
 
-3. Favourite animal: Cat
+3. Favourite animal: Cats
 
 
 Now click the green 'commit changes' button at the bottom.
